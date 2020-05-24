@@ -3,7 +3,8 @@
 A site where posts of travel landmarks and a description are shown to viewers. Clicking on more details brings up a larger
 picture of the landmark, date the post was added, and an interative map of the location of the landmark!
 
-*Utilized:
+Utilized:
+
   -MongoDB as database for posts, call-back requests, mail, and users
 
  -Node.js, node package manager (npm), and various packages:
